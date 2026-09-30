@@ -303,13 +303,3 @@ The project highlights the value of a strong baseline, an appropriate metric for
 ## 👤 Author
 
 **Ahmed Abdelfattah**
-
-Aspiring **Applied AI / LLM Engineer**
-
-Currently building practical experience across:
-
-- Machine Learning
-- Deep Learning
-- NLP
-- LLMs
-- Applied AI
